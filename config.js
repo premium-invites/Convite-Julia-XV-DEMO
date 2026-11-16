@@ -30,14 +30,14 @@ window.CONFIG = {
   //         Ex.: 55 (Brasil) + 31 (DDD) + 985657116 -> "5531985657116"
   // mensagem: texto que já vem pré-preenchido quando a pessoa abre o WhatsApp.
   whatsapp: {
-    numero: "5532998686396",
+    numero: "5598869-2212",
     mensagem: "Olá! Confirmo minha presença no aniversário da Julia."
   },
 
   // ----- LOCALIZAÇÃO (BOTÃO MAPA) ----------------------------------------
   // Link completo do Google Maps. Abra o local no Maps, clique em "Compartilar"
   // -> "Copiar link" e cole aqui (mantenha as aspas).
-  mapa: "https://maps.app.goo.gl/8QYUG5JQoy4wfnB57",
+  mapa: "https://www.google.com/maps/place/Thames+Lounge+Buffet/@-15.367145,-48.3934875,6z/data=!4m10!1m2!2m1!1sbuffet+sp!3m6!1s0x94ce5c1fca3a0311:0x2dd56af64adae9dc!8m2!3d-23.5678645!4d-46.5770599!15sCglidWZmZXQgc3BaCyIJYnVmZmV0IHNwkgELZXZlbnRfdmVudWWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblRVUm5YMkp5ZDBwQkVBReABAPoBBAhIEDY!16s%2Fg%2F12hng333_?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D",
 
   // ----- QUAIS TELAS APARECEM --------------------------------------------
   // video:     true  -> toca o vídeo (assets/video.mp4) depois da abertura.
