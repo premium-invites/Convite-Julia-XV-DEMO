@@ -37,7 +37,7 @@ window.CONFIG = {
   // ----- LOCALIZAÇÃO (BOTÃO MAPA) ----------------------------------------
   // Link completo do Google Maps. Abra o local no Maps, clique em "Compartilar"
   // -> "Copiar link" e cole aqui (mantenha as aspas).
-  mapa: "https://www.google.com/maps/place/Thames+Lounge+Buffet/@-15.367145,-48.3934875,6z/data=!4m10!1m2!2m1!1sbuffet+sp!3m6!1s0x94ce5c1fca3a0311:0x2dd56af64adae9dc!8m2!3d-23.5678645!4d-46.5770599!15sCglidWZmZXQgc3BaCyIJYnVmZmV0IHNwkgELZXZlbnRfdmVudWWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblRVUm5YMkp5ZDBwQkVBReABAPoBBAhIEDY!16s%2Fg%2F12hng333_?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D",
+  mapa: "https://www.google.com/maps/place/Thames+Lounge+Buffet/@-23.5678645,-46.5796402,17z/data=!3m1!4b1!4m6!3m5!1s0x94ce5c1fca3a0311:0x2dd56af64adae9dc!8m2!3d-23.5678645!4d-46.5770599!16s%2Fg%2F12hng333_?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D",
 
   // ----- QUAIS TELAS APARECEM --------------------------------------------
   // video:     true  -> toca o vídeo (assets/video.mp4) depois da abertura.
